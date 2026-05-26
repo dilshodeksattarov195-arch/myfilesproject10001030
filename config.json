@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterfarse",
+        "uuid": 9534710,
+        "checksum": "4avq0v9"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
